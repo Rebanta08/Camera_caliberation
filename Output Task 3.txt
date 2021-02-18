@@ -1,0 +1,7 @@
+﻿last log: calib_log.AprilCalib_log_00017
+camera intrinsic matrix:
+[[788.53833244   0.         641.3123704 ]
+ [  0.         788.48461472 358.01028946]
+ [  0.           0.           1.        ]]
+camera distortion parameters:
+[-0.12572225  0.23407207  0.00346949  0.00183746  0.        ]
